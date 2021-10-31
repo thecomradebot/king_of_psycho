@@ -6,7 +6,7 @@ A modular telegram Python bot running on python3 with an sqlalchemy database.
 
 എന്റെ ന്യൂ ഫീച്ചേർസ് [ചാനലിൽ](t.me/kunjappan_support) ഇടുന്നതായിരിക്കും. സംശയങ്ങൾക്ക് @kunjappansupport എന്ന ഗ്രൂപ്പിൽ വരാവുന്നതാണ്.....
 
-എന്നെ ടെലെഗ്രാമിൽ കാണാൻ സാധിക്കും [കുഞ്ഞപ്പൻ](https://t.me/kunjappanpachubot).
+എന്നെ ടെലെഗ്രാമിൽ കാണാൻ സാധിക്കും [കുഞ്ഞപ്പൻ](https://t.me/Kunjappanpachubot).
 
 കുഞ്ഞപ്പോ and I are moderating a [support group](https://t.me/kunjappansupport), where you can ask for help setting up your
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
