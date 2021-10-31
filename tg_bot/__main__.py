@@ -21,13 +21,13 @@ PM_START_TEXT = """
 ഹായ് {}, എന്റെ പേര് {}! എന്നെ ഉപയോഗിക്കേണ്ടത് എങ്ങനെ ആണെന്നുള്ളതിൽ എന്തേലും സംശയം ഉണ്ടെങ്കിൽ /help കൊടുത്താൽ മതിയാകും... 
 എന്റെ ന്യൂ ഫീച്ചേർസ് ചാനലിൽ @kunjappansupportez ഇടുന്നതായിരിക്കും. സംശയങ്ങൾക്ക് @kunjappansupport എന്ന ഗ്രൂപ്പിൽ വരാവുന്നതാണ്.....
 
-എന്നെ നോക്കി നടത്തുന്നത്   [ഇദ്ദേഹം](tg://user?id={})  ആണ് . എന്നെ നിർമിച്ചിരിക്കുന്നത് python3യിൽ 
-python-telegram-bot library ഉപയോഗിച്ചാണ്.... ഞാൻ പൂർണമായും opensource ആണ്.. എന്റെ കോഡ് നിങ്ങൾക്ക്  [ഇവിടെ](https://heroku.com/deploy?template=https://github.com/hopepsycho/king_of_psycho)  കാണാവുന്നതാണ്...
+എന്നെ നോക്കി നടത്തുന്നത്   [ഇദ്ദേഹം](tg://user?id={}). ആണ് . എന്നെ നിർമിച്ചിരിക്കുന്നത് python3യിൽ 
+python-telegram-bot library ഉപയോഗിച്ചാണ്.... ഞാൻ പൂർണമായും opensource ആണ്.. എന്റെ കോഡ് നിങ്ങൾക്ക്  [ഇവിടെ](https://heroku.com/deploy?template=https://github.com/hopepsycho/king_of_psycho). കാണാവുന്നതാണ്...
 എന്നെ ഉപയോഗിക്കാൻ ആവിശ്യമായ commandകൾ അറിയാൻ /help കൊടുത്താൽ മതിയാകും..
 വിവരങ്ങൾക്കായി /info  ഉപയോഗിക്കാവുന്നതാണ്...
 
-Using standard  [kunjappan](http://telegram.dog/kunjappnpachubot)  is always gonna be easier.
-എന്റെ ചേച്ചിയായ  [psycho](http://telegram.dog/kunjappnpachubot)  ഉപയോഗിക്കുന്നത് എല്ലായ്പ്പോഴും എളുപ്പമായിരിക്കും. മേരി ചേച്ചിക്ക് English മാത്രമേ അറിയൂ..
+Using standard  [kunjappan](http://telegram.dog/kunjappnpachubot). is always gonna be easier.
+എന്റെ ചേച്ചിയായ  [psycho](http://telegram.dog/kunjappnpachubot). ഉപയോഗിക്കുന്നത് എല്ലായ്പ്പോഴും എളുപ്പമായിരിക്കും. മേരി ചേച്ചിക്ക് English മാത്രമേ അറിയൂ..
 
 """
 
@@ -50,7 +50,7 @@ And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nഈ പറഞ്ഞിരിക്കുന്ന commandകൾ എല്ലാം  / അല്ലെങ്കിൽ ! വെച്ച് ഉപയോഗിക്കാവുന്നതാണ്...\n")
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-It took lots of work for [my creator](t.me/sonoflars) to get me to where I am now, and every donation helps \
+It took lots of work for  [my creator](t.me/king_of_psycho)  to get me to where I am now, and every donation helps \
 motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or beer \
 (see his bio!). He's just a poor student, so every little helps!
 There are two ways of paying him; [psycho](t.me/king_of_psycho)."""
